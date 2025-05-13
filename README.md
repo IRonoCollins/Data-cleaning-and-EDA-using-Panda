@@ -9,30 +9,6 @@ This project demonstrates data analysis using Python's **pandas** library. It co
 - Visualizing data with **Matplotlib** and **Seaborn**
 
 ## 📂 Project Structure
-```
-📁 panda-project/
-│-- 📄 Panda_Project_Enhanced.ipynb  # Jupyter Notebook with full analysis
-│-- 📂 data/                         # Directory for datasets (place data here)
-│-- 📄 README.md                      # Project documentation
-```
-
-## 🔧 Requirements
-Ensure you have the following Python libraries installed:
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/panda-project.git
-   cd panda-project
-   ```
-2. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Panda_Project_Enhanced.ipynb
-   ```
-3. Run the cells to explore and analyze the dataset.
 
 ## 📊 Features
 - **Data Cleaning**: Handling missing values, duplicates, and data inconsistencies
@@ -43,7 +19,7 @@ pip install pandas numpy matplotlib seaborn
 Feel free to fork this repository, make improvements, and submit a pull request!
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This dataset is available for educational and research purposes. 
 
 ## 📞 Contact
 For questions or suggestions, reach out via email: **coloron1999@gmail.com**
